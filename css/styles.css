@@ -2,6 +2,7 @@
 .h1{
     background-color: black;
     color: white;
+   
 }
 
 /*id selector*/
@@ -14,4 +15,15 @@
 h3{
     background-color: rebeccapurple;
     color: white;
+}
+
+.box{
+    height: 60px;
+    width: 60px;
+    border: 1px solid red;
+    background-color: black;
+    position: relative;
+    top:20px;
+    left: 700px;
+    
 }
