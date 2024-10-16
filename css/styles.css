@@ -1,0 +1,17 @@
+/*class selector*/
+.h1{
+    background-color: black;
+    color: white;
+}
+
+/*id selector*/
+#id-1{
+    background-color: darkolivegreen;
+    color: white;
+}
+
+/*element selector*/
+h3{
+    background-color: rebeccapurple;
+    color: white;
+}
